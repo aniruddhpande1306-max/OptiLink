@@ -1,0 +1,28 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Compiled applications
+*.apk
+*.exe
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+laptop-receiver/dist/
+
+# Website dependencies/build output
+website/node_modules/
+website/dist/
+
+# IDE/system files
+.vscode/
+Thumbs.db
+Desktop.ini
+# Local build logs
+build_log.txt
+build_log_cmd.txt 
